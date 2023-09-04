@@ -3,7 +3,9 @@
 This is the repository for the first coding assignment for The Economist application.
 
 There are two files:
+
   main_script.py: Contains calls for necessary functions from econ_app_utils, sets seed and script settings.
+  
   econ_app_utils.py: Contains the functions that actually do the work.
     etl_data(): Used for cleaning data and exporting the polls.csv.
     fit_splines(): Cubic polynomial spline model used to fit the timeseries -- discussion of this is included in the function.
