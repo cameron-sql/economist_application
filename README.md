@@ -20,8 +20,6 @@ There are two files:
 
 As mentioned, I went with a cubic polynomial basis spline model for the fit. I discuss it further in the script, but this seemed like a good compromise between the moving average and Dirichlet mixture models mentioned in the problem statement.
 
-The inference is performed by BaMbi (https://bambinos.github.io/bambi/), which is a high-level interface for PyMC (https://www.pymc.io/) -- akin to BRMS and Stan from the R universe.
-
 Packages:
 Python v3.11.4,
 pandas,
