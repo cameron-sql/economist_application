@@ -4,7 +4,7 @@ This is the repository for the first coding assignment for The Economist applica
 
 There are two files:
 
-  1) main_script.py: Contains calls for necessary functions from econ_app_utils, sets seed and script settings.
+  1) main_script.py: Contains calls for necessary functions from econ_app_utils, sets seed and script settings. Everything can be run from just this file, however I have included commenting and reasoning for the choice of model etc. in the econ_app_utils.py file.
   
   2) econ_app_utils.py: Contains the functions that actually do the work.
 
